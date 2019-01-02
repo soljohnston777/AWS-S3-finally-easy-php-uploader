@@ -16,8 +16,8 @@ composer require aws/aws-sdk-php
 &nbsp;
 <h3>Then <strong>create your s3</strong> <strong>bucket</strong> on:</h3>
 <a href="https://aws.amazon.com/">https://aws.amazon.com/</a>
-
-Here are the instructions to <strong>get your access keys</strong>:
+&nbsp;
+<h3>Here are the instructions to <strong>get your access keys</strong></h3>:
 <a href="https://www.cloudberrylab.com/resources/blog/how-to-find-your-aws-access-key-id-and-secret-access-key-and-register-with-cloudberry-s3-explorer/">https://www.cloudberrylab.com/resources/blog/how-to-find-your-aws-access-key-id-and-secret-access-key-and-register-with-cloudberry-s3-explorer/</a>
 
 <strong>Create a new key RIGHT NOW</strong>.... it will save your butt!
