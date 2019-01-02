@@ -1,13 +1,11 @@
-<p style="text-align: center;">For Amazon AWS S3 PHP
--The easy code that actually works and is understandable!</p>
-For developers like you download <strong>XAMPP</strong>:
-<a href="https://www.apachefriends.org/download.html">https://www.apachefriends.org/download.html</a>
-
+<h1 style="text-align: center;">For Amazon AWS S3 PHP</h1>
+<h3 style="text-align: center;">The easy code that actually works and is understandable!</h3>
 &nbsp;
-
-Then <strong>install composer</strong> and test it
-<a href="https://www.wdb24.com/how-to-install-composer-on-windows-with-xampp/">https://www.wdb24.com/how-to-install-composer-on-windows-with-xampp/</a>
-
+<h3>For developers like you download <strong>XAMPP</strong>:
+<a href="https://www.apachefriends.org/download.html">https://www.apachefriends.org/download.html</a></h3>
+&nbsp;
+<h3>Then <strong>install composer</strong> and test it
+<a href="https://www.wdb24.com/how-to-install-composer-on-windows-with-xampp/">https://www.wdb24.com/how-to-install-composer-on-windows-with-xampp/</a></h3>
 composer --version
 
 With Command prompt or Powershell Admin -
@@ -16,9 +14,7 @@ in windows in your folder C:\xampp\htdocs\AWS-S3-finally-easy-php-uploader\ run:
 composer require aws/aws-sdk-php
 
 &nbsp;
-
-Then <strong>create your s3</strong> <strong>bucket</strong> on:
-
+<h3>Then <strong>create your s3</strong> <strong>bucket</strong> on:</h3>
 <a href="https://aws.amazon.com/">https://aws.amazon.com/</a>
 
 Here are the instructions to <strong>get your access keys</strong>:
@@ -28,4 +24,5 @@ Here are the instructions to <strong>get your access keys</strong>:
 (I had so many problems by "Not" doing this, and you can still keep your old keys anyways)
 
 &nbsp;
-<p style="text-align: center;">Then use the code in this repository.  The code has notes to make it easy!</p>
+<h2 style="text-align: center;">Then use the code in this repository.</h2>
+<h2 style="text-align: center;">The code has notes to make it easy!</h2>
