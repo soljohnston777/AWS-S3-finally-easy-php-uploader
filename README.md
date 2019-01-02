@@ -2,9 +2,15 @@
 <h3 style="text-align: center;">The easy code that actually works and is understandable!</h3>
 &nbsp;
 <br>
-<h5 style="text-align: center;">For uploading and listing objects(files) in a S3 bucket</h5>
+<h5 style="text-align: center;">For UPLOADING and LISTING OBJECTS(files) in a S3 bucket</h5>
+<p style="text-align: center;">LISTING OBJECTS(files) explained for best use and making it easy</p>
+
+<br>
+&nbsp;
+<h3 style="text-align: center;">Installing S3 and making it work instructions below with Xampp:</h3>
 
 &nbsp;
+
 <h3>For developers like you download <strong>XAMPP</strong>:
 <a href="https://www.apachefriends.org/download.html">https://www.apachefriends.org/download.html</a></h3>
 &nbsp;
