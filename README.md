@@ -7,6 +7,8 @@
 
 <br>
 &nbsp;
+<p style="text-align: center;">I made this because it took me years to figure out some of these things that should have been easy.</p>
+&nbsp;
 <h3 style="text-align: center;">Installing S3 and making it work instructions below with Xampp:</h3>
 
 &nbsp;
