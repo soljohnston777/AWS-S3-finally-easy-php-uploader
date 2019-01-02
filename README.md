@@ -26,3 +26,5 @@ composer require aws/aws-sdk-php
 &nbsp;
 <h2 style="text-align: center;">Then use the code in this repository.</h2>
 <h2 style="text-align: center;">The code has notes to make it easy!</h2>
+
+I will have a course on https://www.secretlesson.com about how to use S3 and how to secure it.
